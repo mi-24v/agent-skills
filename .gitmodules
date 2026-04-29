@@ -1,0 +1,3 @@
+[submodule "common-creation"]
+	path = common-creation-skills
+	url = https://github.com/common-creation/skills.git
