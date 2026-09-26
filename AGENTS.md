@@ -14,3 +14,4 @@ ultrathink
 - 指示にない機能を勝手に追加しない
 - ファイル変更の意味ごとにgit-commit skillでcommitしなければならない
 
+@~/.codex/RTK.md
