@@ -7,6 +7,11 @@ context7 tool を使用して、最新のライブラリの使用方法を毎回
 
 ultrathink
 
+## Design documents
+
+Treat design/spec documents as point-in-time context unless explicitly marked as current authoritative guidance.
+Do not generalize historical rationale into repository-wide constraints.
+
 ## タスク実行ルール
 - ファイル編集前に必ず現在の内容を確認しなければならない
 - 各タスクの完了前に、期待通りの結果になっているか確認しなければならない
